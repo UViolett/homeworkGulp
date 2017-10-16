@@ -1,0 +1,49 @@
+#outer {
+	position: relative;
+	width: 1180px;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+#search input.button {
+	margin-left: 1em;
+	border: 0;
+	color: #fff;
+	background: #1495ff;
+	padding: 11px;
+}
+
+#search input.text {
+	border: dotted 1px #fff;
+	padding: 10px;
+}
+
+#sidebar {
+	width: 240px;
+	float: left;
+	padding: 40px;
+	background: #32251b;
+	color: #e1d2c7;
+}
+
+#sidebar a {
+	color: #e2e0df;
+}
+
+#sidebar h2, #sidebar h3, #sidebar h4 {
+	color: #fff;
+}
+
+#sidebar ul {
+	list-style: none;
+}
+
+#sidebar ul li {
+	padding: 15px 0 15px 0;
+	border-top: dotted 1px #70665f;
+}
+
+#sidebar ul li.first {
+	padding-top: 0;
+	border-top: 0;
+}
